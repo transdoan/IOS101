@@ -1,4 +1,4 @@
-Time spent: **0.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
